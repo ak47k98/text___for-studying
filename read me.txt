@@ -6,4 +6,4 @@ make
 ./opencv_example）
 anaconda路径：/home/ak47k98/anaconda3
 vim ===>nano  && gedit  .
-
+打开ubuntu小猫咪：./cfw（进文件夹）
