@@ -1,8 +1,0 @@
- OpenCV：https://zhuanlan.zhihu.com/p/664986581（注意usb兼容性为3.1）(home/ak47k98/opencv/opencv-4.8.0/samples/cpp/example_cmake)(右键终端打开)
-（link start code :
-cmake .
-make
-./opencv_example）
-anaconda路径：/home/ak47k98/anaconda3
-vim ===>nano  && gedit  .
-
