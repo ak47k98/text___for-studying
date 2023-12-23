@@ -1,24 +1,8 @@
- OpenCV：https://zhuanlan.zhihu.com/p/664986581（照抄即可，注意usb兼容性为3.1）
-路径：(home/ak47k98/opencv/opencv-4.8.0/samples/cpp/example_cmake)(右键终端打开)
+ OpenCV：https://zhuanlan.zhihu.com/p/664986581（注意usb兼容性为3.1）(home/ak47k98/opencv/opencv-4.8.0/samples/cpp/example_cmake)(右键终端打开)
 （link start code :
 cmake .
 make
 ./opencv_example）
 anaconda路径：/home/ak47k98/anaconda3
 vim ===>nano  && gedit  .
-打开ubuntu小猫咪：./cfw（进文件夹在终端打开）
 
-ubuntu命令：
-g++ hello.c -o hello
-这是一个在命令行中使用 g++ 编译器编译 C 程序的命令。让我们分解下这个命令：
-g++：这是编译器的名称。在这个例子中，我们使用的是 GNU 的 C++ 编译器。
-hello.c：这是你要编译的源代码文件。虽然 .c 通常是 C 语言代码的扩展名，但 g++ 也可以编译该文件，只不过它会以 C++ 的方式进行编译和链接。
--o hello：这是一个选项，用于指定输出的可执行文件名。在这个例子中，输出的文件名将为 hello。
-./hello
-这是一个在命令行中执行程序的命令。让我们分解下这个命令：
-./：在 Unix 和类 Unix 系统（比如 Linux，macOS）中，./ 前缀表示在当前目录中。
-hello：这就是你要运行的程序。在上一个命令中，我们将编译后的可执行文件命名为 hello。
-所以，./hello 命令就是在当前目录下运行名为 hello 的程序。
-————————————————
-
-原文链接：https://blog.csdn.net/weixin_63019977/article/details/132862670
