@@ -1,4 +1,5 @@
-（基于狗屎教程）：
+（基于狗屎教程）：https://mp.weixin.qq.com/s?__biz=MzkyNzI1MDUyNw==&mid=100001280&idx=1&sn=d1054867ec108a3bae5691a99526231d&chksm=422ba730755c2e2670a77d3350a423313732faf833c228a600c3b62b825816f5850d9f759fdd&mpshare=1&scene=23&srcid=1220fVV2PTtGmyJAcomANAgb&sharer_shareinfo=2f9139b992935eacdca4bc99a4b34a6a&sharer_shareinfo_first=c5d48e3b6f60589985108e636b0108bf#rd
+  &&   https://mp.weixin.qq.com/s/9D9YqG-Zbg9eg7vdQIzprw
 
 ## 关于下载失败（卡在20%）
 
@@ -97,7 +98,7 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
 
 ##     在执行时发现克隆错误报错
 
-1.![屏幕截图 2023-12-31 114010](D:\c s studying\text___for-studying\SITL\屏幕截图 2023-12-31 114010.png)
+1.![Alt text](image-1.png)
 
 2.换个网络重试（校园网换热点）（或者换张卡的流量）（祈祷宿舍出奇迹）
 
